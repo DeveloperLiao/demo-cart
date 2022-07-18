@@ -1,0 +1,7 @@
+:root{
+ font-size: 14px;
+}
+/*复选框的样式 */
+.custom-checkbox .custom-control-label::before {
+  border-radius: 10px;
+} 
